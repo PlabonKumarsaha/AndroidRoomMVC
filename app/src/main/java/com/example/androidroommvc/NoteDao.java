@@ -1,6 +1,7 @@
 package com.example.androidroommvc;
 
 import androidx.lifecycle.LiveData;
+import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
@@ -12,7 +13,7 @@ import java.util.List;
 //What is DATA ACCESS OBJECT (DAO) - It is a object/interface,
 // which is used to access data from database of data storage.
 // WHY WE USE DAO: it abstracts the retrieval of data from a data resource such as a database
-
+@Dao
 public interface NoteDao {
 
 
