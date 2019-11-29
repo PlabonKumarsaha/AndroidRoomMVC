@@ -4,7 +4,7 @@ of the setup of the priority.There are features to add,update ,delete(a note is 
 delete all note option in the menu.
 MVC structure was used to build this app.
 We used Android room Library which is equivalent to the sqlite database system.
-We also used recycler view and cardview for this application
+We also used recycler view and cardview library for this application
 
 
 The interfaces :
