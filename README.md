@@ -1,4 +1,5 @@
 # AndroidRoomMVC
+
 This is a simple Note saving application where you can set titles,description and priority of the note and the note will be sorted in order
 of the setup of the priority.There are features to add,update ,delete(a note is deleted if you a note title swipe left/write) and also 
 delete all note option in the menu.
@@ -32,5 +33,9 @@ swipe to delete a note and click menu to delete all notes.
 
 
 ![Image description](https://github.com/PlabonKumarsaha/AndroidRoomMVC/blob/master/images/77156470_2193699640934959_885923715894738944_n.jpg)
+
+
+
+About MVP : https://hellohasan.com/2019/12/07/mvp-architecture-android-kotlin-retrofit/?fbclid=IwAR2lIwEUOYDrDDyOzz9PA-gwafSK1KLmmtZBp9ShoiZXd_cMvs49nicXNwo
 
 
