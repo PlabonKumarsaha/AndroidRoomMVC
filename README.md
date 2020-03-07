@@ -4,11 +4,8 @@
  ```
  Android studio
 
- ```
- ```
  Android Room library - SQLite data base library
- ```
-  ```
+
  Room MVC structure 
  ```
  
@@ -58,6 +55,6 @@
 
 
 
-About MVP : https://hellohasan.com/2019/12/07/mvp-architecture-android-kotlin-retrofit/?fbclid=IwAR2lIwEUOYDrDDyOzz9PA-gwafSK1KLmmtZBp9ShoiZXd_cMvs49nicXNwo
+## [About MVP] (https://hellohasan.com/2019/12/07/mvp-architecture-android-kotlin-retrofit/?fbclid=IwAR2lIwEUOYDrDDyOzz9PA-gwafSK1KLmmtZBp9ShoiZXd_cMvs49nicXNwo)
 
 
